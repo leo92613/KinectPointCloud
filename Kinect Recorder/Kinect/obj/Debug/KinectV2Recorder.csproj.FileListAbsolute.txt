@@ -1,0 +1,15 @@
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Kinect.exe.config
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Kinect.exe
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Kinect.pdb
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\Debug\Kinect.exe
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\Debug\Kinect.pdb
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\Debug\Kinect.exe.config
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\obj\Debug\Kinect.exe
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\obj\Debug\Kinect.pdb
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\Debug\Kinect.exe
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\Debug\Kinect.pdb
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\obj\Debug\KinectV2Recorder.csprojResolveAssemblyReference.cache

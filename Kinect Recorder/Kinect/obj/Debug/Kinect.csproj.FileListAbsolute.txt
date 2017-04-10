@@ -1,0 +1,8 @@
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Kinect.exe.config
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Kinect.exe
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Kinect.pdb
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Microsoft.Kinect.dll
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\Debug\Microsoft.Kinect.xml
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\Debug\Kinect.csprojResolveAssemblyReference.cache
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\Debug\Kinect.exe
+c:\users\larsivar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\Debug\Kinect.pdb

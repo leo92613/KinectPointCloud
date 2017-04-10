@@ -1,0 +1,5 @@
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\x64\Debug\Kinect.exe.config
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\x64\Debug\Kinect.exe
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\bin\x64\Debug\Kinect.pdb
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\x64\Debug\Kinect.exe
+C:\Users\LarsIvar\documents\visual studio 2012\Projects\Kinect\Kinect\obj\x64\Debug\Kinect.pdb

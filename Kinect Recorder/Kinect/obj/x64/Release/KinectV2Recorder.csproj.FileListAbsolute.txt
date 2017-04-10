@@ -1,0 +1,7 @@
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\x64\Release\Kinect.exe.config
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\x64\Release\Kinect.exe
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\x64\Release\Kinect.pdb
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\x64\Release\Microsoft.Kinect.dll
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\bin\x64\Release\Microsoft.Kinect.xml
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\obj\x64\Release\Kinect.exe
+C:\Users\Tactonic\Desktop\Kinect Recorder\Kinect\obj\x64\Release\Kinect.pdb
